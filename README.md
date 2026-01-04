@@ -23,7 +23,7 @@ The notebook was organized into logical sections with clear execution flow. Clea
 5. **Version Control & Submission Quality** - 
 The project artifacts, including the notebook, processed dataset, and documentation, were systematically uploaded to GitHub with a clear repository structure and a concise README outlining objectives, workflow, and insights.
 
-## Tools & Technologies
+## Tools & Technologies Used
 
 * Python
 
@@ -35,7 +35,7 @@ The project artifacts, including the notebook, processed dataset, and documentat
 
 * GitHub
 
-## Key Analysis Performed
+## Output
 
 * Created a structured sales dataset with 50+ records
 
