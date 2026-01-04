@@ -33,15 +33,15 @@ The project artifacts, including the notebook, processed dataset, and documentat
 
 ## Tools & Technologies Used
 
-* Python
+▪︎ Python – Core programming language
 
-* Pandas
+▪︎ Google Colab – A cloud-based Jupyter notebook environment used for project development and execution.
 
-* NumPy
+▪︎ Pandas – Data analysis and manipulation
 
-* Google Colab
+▪︎ NumPy - Dataset creation and support numerical operations
 
-* GitHub
+▪︎ GitHub – Version control and project submission
 
 ## Output
 
