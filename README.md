@@ -2,11 +2,19 @@
 
 Week-2 Internship Project
 
-## Project Overview
+## Project Description
 
-This project focuses on analyzing structured sales data using Python to derive meaningful business insights. The objective is to simulate real-world data analysis tasks performed by junior data analysts, including revenue calculation, performance evaluation, and trend analysis. The project demonstrates practical skills in data handling, analytical thinking, and business-oriented reporting.
+This project involves analyzing structured sales data using Python to calculate revenue, evaluate product and category performance, and identify sales trends. It simulates real-world data analysis workflows by transforming raw sales records into meaningful insights that support business decision-making.
 
-## Project Workflow (Aligned with Evaluation Criteria)
+## Project Objectives
+
+* Analyze sales data using Python to compute revenue metrics and generate overall sales summaries
+
+* Evaluate product-wise, category-wise, and monthly sales performance to identify key trends and revenue drivers
+
+* Transform raw sales data into actionable business insights through structured analysis and reporting
+
+## Project Workflow 
 
 1. **Dataset Creation & Structuring** - 
 A well-structured sales dataset containing more than 50 records was created, including order details such as order ID, order date, product, category, quantity, and price. Proper column naming and data consistency were maintained to ensure analytical readiness.
